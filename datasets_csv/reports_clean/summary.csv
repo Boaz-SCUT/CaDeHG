@@ -1,0 +1,7 @@
+study,total_clinical_wsi,matched_wsi_with_text,match_percentage,output_file
+BLCA,412,379,91.99,blca.csv
+BRCA,1096,1032,94.16,brca.csv
+HNSC,528,520,98.48,hnsc.csv
+STAD,443,361,81.49,stad.csv
+LUAD,569,485,85.24,luad.csv
+UCEC,547,545,99.63,ucec.csv
